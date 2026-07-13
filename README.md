@@ -279,3 +279,11 @@ License
 =======
 
 This project is licensed under the terms of the MIT license.
+
+------
+
+ArUco dictionary source
+=======================
+
+The ArUco 4x4 marker data is sourced from OpenCV's DICT_4X4_1000 data file:
+https://github.com/opencv/opencv/blob/5.x/apps/pattern-tools/DICT_4X4_1000.json.gz
